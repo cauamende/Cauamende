@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 👋
 
-<!--
-**cauamende/Cauamende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou estudando no alura
+Estou desenvolvendo na linguagem Javascript
+utilizo este espaço para minha organização e compartilha do meu projeto desenvolvimento 
 
-Here are some ideas to get you started:
+![.](https://github.com/cauamende/Cauamende/assets/172031593/f3efe37a-c012-4e68-a895-d4ae6c2e5476) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
